@@ -147,7 +147,7 @@ if ( ! defined( 'WP_DEBUG' ) ) {
     define('WP_DEBUG', false);
 }
 
-/* That's all, stop editing! Happy Pressing. */
+/* That's all, stop editing! Happy Pressing... */
 
 
 
@@ -158,3 +158,7 @@ if ( !defined('ABSPATH') )
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
+
+
+
+
